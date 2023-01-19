@@ -1,0 +1,37 @@
+
+.navigation li {
+    margin: 0 30px;
+}
+
+.navbar-brand {
+   padding-left: 5px; 
+}
+
+.navbar {
+    color: red;
+}
+
+
+
+.footer {
+    padding-top: 20px;
+}
+
+.catalog {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.catalog-t {
+    padding-top: 40px;
+}
+
+
+.catalog img {
+    width: 200px;
+    height: 190px;
+}
+
+.map {
+    padding-top: 15px;
+}
